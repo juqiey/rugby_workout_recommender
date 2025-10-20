@@ -1,0 +1,31 @@
+﻿exercise_id,exercise_name,type,target_muscles,primary_attributes,intensity_level,equipment_needed,category,description
+1,Front Squat,Weight,"Legs, Core",Strength,9,Barbell,Power,Builds leg drive and core stability crucial for scrum performance.
+2,Back Squat,Weight,"Legs, Core",Strength,9,Barbell,Power,Enhances lower-body strength and explosiveness for tackling and scrums.
+3,Deadlift,Weight,"Legs, Back, Core",Strength,9,Barbell,Power,Develops full-body pulling power and posterior chain for stability in contact.
+4,Sled Push,Weight,"Legs, Core, Shoulders",Explosiveness,8,Sled,Power,Simulates scrum engagement and improves driving force.
+5,Power Clean,Weight,"Legs, Core, Shoulders",Explosiveness,8,Barbell,Power,Builds total-body explosive power for tackles and acceleration.
+6,Bench Press,Weight,"Chest, Shoulders, Arm",Strength,8,Barbell,Upper Body,Improves upper-body pushing power used in mauls and tackles.
+7,Push Press,Weight,"Shoulders, Arms, Core",Strength,8,Barbell,Upper Body,Develops overhead strength and explosive drive from the legs.
+8,Plank,Bodyweight,Core,Stability,5,None,Core,Strengthens core for better body control during scrums and tackles.
+9,Side Plank,Bodyweight,Core,Stability,5,None,Core,Improves lateral core strength for better balance and stability.
+10,Jump Squat,Bodyweight,"Legs, Core",Explosiveness,8,None,Conditioning,Boosts leg power and jump ability for lineouts and sprints.
+11,Burpee,Bodyweight,Full Body,Endurance,7,None,Conditioning,Increases cardiovascular fitness and full-body coordination.
+12,Sprint,Bodyweight,"Legs, Core",Speed,9,None,Conditioning,Improves acceleration and top-end sprint speed.
+13,Broad Jump,Bodyweight,"Legs, Core",Explosiveness,8,None,Conditioning,Builds lower-body power and horizontal force generation.
+14,Lateral Shuffle,Bodyweight,"Legs, Core",Agility,6,None,Skill,Enhances lateral quickness and reaction speed.
+15,Push-Up,Bodyweight,"Chest, Arms, Core",Strength,6,None,Upper Body,Builds upper-body strength and core stability.
+16,Pull-Up,Bodyweight,"Back, Arms, Core",Strength,7,None,Upper Body,Improves pulling strength for tackling and grappling.
+17,Dumbbell Lunge,Weight,"Legs, Core",Strength,7,Dumbell,Lower Body,Builds unilateral leg strength and balance.
+18,Romanian Deadlift,Weight,"Hamstrings, Glutes, Core",Strength,8,Barbell,Power,Strengthens posterior chain and improves hip drive.
+19,Medicine Ball Slam,Weight,"Core, Shoulders, Arms",Explosiveness,7,Medicine Ball,Conditioning,Improves explosive coordination and full-body power.
+20,Battle Rope Wave,Weight,"Shoulders, Arms, Core",Endurance,7,Battle Rope,Conditioning,Develops shoulder endurance and cardiovascular capacity.
+21,Box Jump,Bodyweight,"Legs, Core",Explosiveness,8,Box,Conditioning,Increases lower-body explosiveness and coordination.
+22,Farmer's Carry,Weight,"Grip, Shoulders, Core",Strength,7,Dumbell,Conditioning,"Builds grip, posture, and core stability under load."
+23,Shoulder Press,Weight,"Shoulders, Arms",Strength,7,Dumbell,Upper Body,Builds pressing strength for tackling and rucking.
+24,Russian Twist,Bodyweight,Core,Stability,6,None,Core,Strengthens rotational core control for passing and tackling.
+25,Mountain Climber,Bodyweight,"Core, Legs",Endurance,7,None,Conditioning,Improves agility and core endurance under fatigue
+26,Barbell Row,Weight,"Back, Shoulders, Core",Strength,8,Barbell,Upper Body,Builds back strength for tackling and upper-body stability.
+27,Jump Lunge,Bodyweight,"Legs, Core",Explosiveness,8,None,Conditioning,Boosts unilateral leg power for sprint take-offs.
+28,Overhead Squat,Weight,"Legs, Core, Shoulders",Stability,9,Barbell,Power,Enhances full-body stability and coordination under load
+29,Wall Sit,Bodyweight,"Legs, Core",Endurance,6,None,Conditioning,Improves muscular endurance in lower body.
+30,Kettlebell Swing,Weight,"Hips, Glutes, Core",Explosiveness,8,Kettleball,Conditioning,Builds explosive hip drive and posterior strength.
