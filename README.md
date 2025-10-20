@@ -1,1 +1,1 @@
-# rugby_workout_recommender
+# Rugby Workout Recommender
